@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name	Acfun Unreplaceable
-// @author	googleGuard
+// @author	ohyes
 // @version	1.1
 // @include	http://www.acfun.tv/v/a*
 // @run-at	document-start
